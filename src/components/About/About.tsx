@@ -20,7 +20,7 @@ export function About() {
                 transition={motionTransitionsAbout.transition}
             >
                 <h1 className="mb-6 md:text-4xl">Creating apps & websites with <br /> <span className="text-secondary">spectacular designs</span></h1>
-                <p>5 years ago, I began freelancing as a developer. Since then, I have done remote work for agencies, consulted
+                <p>2 years ago, I began freelancing as a developer. Since then, I have done remote work for agencies, consulted
                     for startups and collaborated on digital products for business an consumer use. </p>
 
                 <div className="grid justify-between grid-cols-2 gap-3 my-8 md:flex md:grid-cols-4 md:gap-6">

@@ -23,8 +23,7 @@ const Introduction = function() {
                     >
                         <h1 className="mb-5 mt-8 text-3xl sm:text-4xl leading-tight md:mb-10">Action is      <br />
                             <span className="text-secondary">the key to success</span></h1>
-                        <p className="max-w-sm text-md mb:4 md:max-w-2xl md:mx-0 md:mb-4 md:text-xl">iOS Developer and Front Web Developer with almost 2 years of professional experience. Working with the latest ios technologies like Swift5, SwiftUI and UIKit and working with TypeScript frameworks and libraries like ReactJs, NextJs, TailwindCSS.</p>
-
+                        <p className="max-w-sm text-md mb:4 md:max-w-2xl md:mx-0 md:mb-4 md:text-xl">iOS Native Developer, Android and iOS Flutter Developer and Front Web Developer with almost 2 years of professional experience. Working with the latest mobile technologies like Swift5, SwiftUI, Dart, Flutter and working with TypeScript frameworks and libraries like ReactJs, NextJs, TailwindCSS.</p>
                         <div className="flex flex-col items-center gap-3 md:gap-10 md:flex-row">
                             <a href="/works" className="px-6 py-3 my-2 transition-all border-2 cursor-pointer w-fit rounded-xl hover:shadow-xl hover:shadow-white/50">
                                Projects

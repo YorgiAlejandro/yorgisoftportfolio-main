@@ -1,5 +1,6 @@
-import { TbBrandJavascript, TbBrandTypescript, TbBrandSwift,  TbBrandReact, TbBrandTailwind } from "react-icons/tb";
-import { FaUikit, FaSwift } from "react-icons/fa";
+import { TbBrandJavascript, TbBrandTypescript, TbBrandSwift,  TbBrandReact, TbBrandTailwind, TbBrandFlutter } from "react-icons/tb";
+import { FaUikit, FaSwift, FaApple } from "react-icons/fa";
+import { TfiAndroid } from "react-icons/tfi";
 export const dataCounter = [
     {
       id: 0,
@@ -46,6 +47,15 @@ export const dataCounter = [
           </div>,
         },
         {
+          title: "Flutter Developer",
+          date: 
+          <div className="flex">
+            <TbBrandFlutter size="40"/>
+            <TfiAndroid size="40"/>
+            <FaApple size="40"/>      
+          </div>,
+        },
+        {
           title: "Frontend Developer",
           date:
           <div className="flex">
@@ -64,6 +74,10 @@ export const dataCounter = [
         {
           title: "iOS Developer in Yorgi'Soft 🚀 ",
           date: "since 2022",
+        },
+        {
+          title: "Flutter Developer in Yorgi'Soft 🚀 ",
+          date: "since 2023",
         },
         {
           title: "Front Web Developer in TheNightLove ",

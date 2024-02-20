@@ -20,7 +20,7 @@ export function Work() {
         },
         collapsed: {
             width: "200px",
-            opacity: 0.2
+            opacity: 0.7
         }
     }
 
@@ -39,7 +39,7 @@ export function Work() {
                     >Last <span className="text-secondary">works.</span>
                     </motion.h1>
                     <motion.div
-                        className="flex flex-col items-center h-full gap-5 px-2 md:flex-row"
+                        className="grid grid-cols-3  items-center h-[100vh] overflow-y-auto gap-5 px-2 md:flex-row"
                         variants={fadeIn('up', 0.5)}
                         initial="hidden"
                         animate="show"
