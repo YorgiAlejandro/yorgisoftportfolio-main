@@ -39,7 +39,7 @@ export function Work() {
                     >Last <span className="text-secondary">works.</span>
                     </motion.h1>
                     <motion.div
-                        className="grid grid-cols-3  items-center h-[100vh] overflow-y-auto gap-5 px-2 md:flex-row"
+                        className="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-3  items-center h-[100vh] overflow-y-auto gap-5 px-2 md:flex-row"
                         variants={fadeIn('up', 0.5)}
                         initial="hidden"
                         animate="show"
