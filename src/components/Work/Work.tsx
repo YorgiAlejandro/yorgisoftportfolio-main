@@ -25,10 +25,10 @@ export function Work() {
     }
 
     return (
-        <div className="h-screen">
+        <div className="min-h-screen">
             <AvatarWorks />
             <Circle />
-            <div className="grid pb-32 md:min-h-screen mt-28 md:mt-0 place-items-center">
+            <div className="grid pb-32 md:min-h-screen mt-32 place-items-center">
                 <div>
                     <motion.h1
                         variants={fadeIn('left', 0.5)}

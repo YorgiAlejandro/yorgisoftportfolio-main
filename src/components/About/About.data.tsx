@@ -11,21 +11,21 @@ export const dataCounter = [
     },
     {
       id: 1,
-      endCounter: 20,
+      endCounter: 10,
       text: "Satisfied Clients",
       lineRight: true,
       lineRightMobile: false,
     },
     {
       id: 2,
-      endCounter: 25,
+      endCounter: 15,
       text: "Finished projects",
       lineRight: true,
       lineRightMobile: true,
     },
     {
       id: 3,
-      endCounter: 5,
+      endCounter: 3,
       text: "collaborations with companies",
       lineRight: false,
       lineRightMobile: false,
@@ -72,16 +72,16 @@ export const dataCounter = [
       text: "Experience",
       skills: [
         {
-          title: "iOS Developer in Yorgi'Soft 🚀 ",
-          date: "since 2022",
+          title: "iOS Developer in Purple-Systems 🚀 ",
+          date: "since 21/12/2022",
         },
         {
-          title: "Flutter Developer in Yorgi'Soft 🚀 ",
-          date: "since 2023",
+          title: "Flutter Developer in Inure ",
+          date: "since 15/1/2024",
         },
         {
-          title: "Front Web Developer in TheNightLove ",
-          date: "since 2021",
+          title: "Front Web Developer in Tripod",
+          date: "since 1/11/2023",
         }
       ],
     },
@@ -90,8 +90,20 @@ export const dataCounter = [
       text: "Studies",
       skills: [
         {
-          title: "Software engineering at Udemy, Coursera",
-          date: "since 2021",
+          title: "iOS Developer in Udemy, Apple Docummentarion, ISUCorp and Ray Wenderlich",
+          date: "since 2022",
+        },
+        {
+          title: "Flutter Developer in Udemy and Flutter Docummentation",
+          date: "since 2023",
+        },
+        {
+          title: "Front End React Developer in Udemy",
+          date: "since 2022",
+        },
+        {
+          title: "Chemist Engineer in Cienfuegos University",
+          date: "since 2018",
         },
       ],
     },

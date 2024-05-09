@@ -21,7 +21,7 @@ export default function RootLayout({
       <body className={prosto.className}>
         <Navbar />
         <Header />
-        {children}
+        {children}  
       </body>
     </html>
   )

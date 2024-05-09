@@ -11,7 +11,7 @@ export function About() {
     const [index, setIndex] = useState(0)
 
     return (
-        <div className="items-center min-h-screen px-6 mx-auto align-middle mt-36 md:mt-0 md:flex md:max-w-4xl pb-36 md:pb-0">
+        <div className="items-center min-h-screen px-6 mx-auto align-middle mt-48 md:mt-0 md:flex md:max-w-4xl pb-36 md:pb-0">
             <Avatar />
 
             <motion.div
@@ -38,7 +38,7 @@ export function About() {
                     ))}
                 </div>
 
-                <div className="flex flex-col mt-10 mb-3 md:flex-row justify-center md:gap-3 md:mt-28 md:mb-5">
+                <div className="flex flex-col mb-3 md:flex-row justify-center md:gap-3 md:mb-5">
                     {dataAboutSkills.map((dataText, itemIndex) => {
                         const { id, text } = dataText;
 
