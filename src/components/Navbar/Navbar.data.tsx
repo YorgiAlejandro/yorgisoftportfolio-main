@@ -4,26 +4,26 @@ export const dataNavbar = [
   {
     name: "home",
     path: "/",
-    icon: <RiHome4Line size="30" />,
+    icon: <RiHome4Line size="25" />,
   },
   {
     name: "about",
     path: "/about",
-    icon: <RiAccountPinCircleLine size="30" />,
+    icon: <RiAccountPinCircleLine size="25" />,
   },
   {
     name: "services",
     path: "/services",
-    icon: <RiServerLine size="30" />,
+    icon: <RiServerLine size="25" />,
   },
   {
     name: "work",
     path: "/works",
-    icon: <RiBriefcase2Line size="30" />,
+    icon: <RiBriefcase2Line size="25" />,
   },
   {
     name: "testimonials",
     path: "/testimonials",
-    icon: <RiChatPollLine size="30" />,
+    icon: <RiChatPollLine size="25" />,
   },
 ];
