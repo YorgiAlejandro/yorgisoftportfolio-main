@@ -60,7 +60,7 @@ export function About() {
                 </div>
                 <div className="max-w-4xl p-4 mx-auto bg-secondary/20 rounded-xl">
                     {dataAboutSkills[index].skills.map((items, index) => (
-                        <div key={index} className="flex justify-around items-center max-w-md gap-4 mx-auto text-xl">
+                        <div key={index} className="flex justify-around items-center max-w-md gap-4 mx-auto text-lg">
                             <span>{items.title} {" "} </span> - <span>{items.date}</span>
                         </div>
                     ))}

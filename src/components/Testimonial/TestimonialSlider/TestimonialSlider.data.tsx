@@ -6,7 +6,6 @@ export const testimonialsData = [
         "As CEO and Founder of TheNightLove.ltd i'm very excited with Yorgi's work so i recommend his services as Front Web Developer",
       image: "opinion_1.png",
     },
-    
     {
       id: 2,
       name: "Robert Delvaty",

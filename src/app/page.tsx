@@ -3,8 +3,8 @@ import { Transition } from '@/components/Transition/Transition'
 import  Cover  from '@/components/Cover/Cover'
 
 export const metadata: Metadata = {
-  title: "Portafolio Yorgi'Soft",
-  description: "Portafolio Yorgi'Soft",
+  title: "Yorgi'Soft",
+  description: "Yorgi'Soft",
 }
 
 

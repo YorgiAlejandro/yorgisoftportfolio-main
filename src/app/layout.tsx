@@ -7,8 +7,8 @@ import { Header } from '@/components/Header/Header'
 const prosto = Prosto_One({ subsets: ['latin'], weight: "400" })
 
 export const metadata: Metadata = {
-  title: "Portafolio Yorgi'Soft",
-  description: "Portafolio Yorgi'Soft",
+  title: "Yorgi'Soft",
+  description: "Yorgi'Soft",
 }
 
 export default function RootLayout({
@@ -17,7 +17,7 @@ export default function RootLayout({
   children: React.ReactNode
 }) {
   return (
-    <html lang="es">
+    <html lang="en">
       <body className={prosto.className}>
         <Navbar />
         <Header />

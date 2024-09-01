@@ -1,13 +1,13 @@
 import { RiInstagramLine, RiYoutubeLine, RiTwitterXLine, RiTiktokLine, RiPinterestLine, RiTwitterXFill, RiBehanceLine, RiGithubLine, RiLinkedinLine } from "react-icons/ri";
-
+import { FaInstagram } from "react-icons/fa6";
 export const socialNetworks = [
   {
-    logo: <RiTwitterXLine size="34" />,
-    src: "https://x.com/YorgiAlej",
+    logo: <FaInstagram size="34" />,
+    src: "https://www.instagram.com/yorgiosdev/",
   },
   {
     logo: <RiYoutubeLine size="40" />,
-    src: "https://youtube.com/@yorgialejandro",
+    src: "https://www.youtube.com/@yorgialejandro",
   },
   {
     logo: <RiGithubLine size="38" />,
@@ -15,7 +15,7 @@ export const socialNetworks = [
   },
   {
     logo: <RiLinkedinLine size="40" />,
-    src: "https://linkedin.com/in/yorgialejandro",
+    src: "https://www.linkedin.com/in/yorgialejandro/",
   },
 
 ];

@@ -72,17 +72,29 @@ export const dataCounter = [
       text: "Experience",
       skills: [
         {
-          title: "iOS Developer in Purple-Systems 🚀 ",
-          date: "since 21/12/2022",
+          title: "iOS Developer in Cute Digital Media",
+          date: "since 8/2/2024",
+        },
+        {
+          title: "iOS Developer in Mandao Co.",
+          date: "since 8/1/2024",
         },
         {
           title: "Flutter Developer in Inure ",
-          date: "since 15/1/2024",
+          date: "since 1/15/2024",
+        },
+        {
+          title: "Indie iOS App Creator",
+          date: "since 12/21/2022",
         },
         {
           title: "Front Web Developer in Tripod",
-          date: "since 1/11/2023",
-        }
+          date: "since 11/1/2023",
+        },
+        {
+          title: "Flutter Developer",
+          date: "since 12/28/2023",
+        },
       ],
     },
     {

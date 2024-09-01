@@ -15,11 +15,13 @@ export function Work() {
 
     const cardVariants = {
         expanded: {
-            width: "360px",
+            width: "250px",
+            height: "450px",
             opacity: 1
         },
         collapsed: {
             width: "200px",
+            height: "200px",
             opacity: 0.7
         }
     }
@@ -47,7 +49,7 @@ export function Work() {
                     >
                         {cardContent.map(({ id, title, imageUrl, description, skills }) => (
                             <motion.div key={id}
-                                className={`card cursor-pointer h-64 bg-auto bg-no-repeat bg-center rounded-[20px] ${id === expandedIndex && 'expanded'}`}
+                                className={`card cursor-pointer h-64 bg-cover bg-no-repeat bg-center rounded-[20px] ${id === expandedIndex && 'expanded'}`}
                                 initial={{ opacity: 1 }}
                                 variants={cardVariants}
                                 animate={id === expandedIndex ? 'expanded' : 'collapsed'}

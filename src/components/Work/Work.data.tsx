@@ -6,55 +6,55 @@ import {
 export const cardContent = [
     {
         id: 0,
-        title: "Erotic Stories",
+        title: "Cuba Cute",
         description:
-            "Is a project made by Yorgi'Soft with Swift & SwiftUI. ",
+            "Is a News app for a USA client with Swift & SwiftUI. ",
         imageUrl: "/work_1.png",
         skills: [
             {
                 icon: <RxRocket size="40" />,
-                url: "https://github.com/YorgiAlejandro/EroticStories.git"
+                url: "https://www.cubacute.com"
             },
 
             {
                 icon: <SiGithub size="40" />,
-                url: "https://github.com/YorgiAlejandro/EroticStories.git"
+                url: "https://github.com/YorgiAlejandro/CubaCute.git"
             },
         ]
     },
     {
         id: 1,
-        title: "To Do Task",
+        title: "Bysumate",
         description:
-            "To Do Task is created by Yorgi'Soft with Swift, SwiftUI and CoreDate",
+            "Is a Ecommerce app for italian market made with Flutter",
         imageUrl: "/work_2.png",
         skills: [
             {
                 icon: <RxRocket size="40" />,
-                url: "https://github.com/YorgiAlejandro/ToDoTask-iOS.git"
+                url: "https://github.com/YorgiAlejandro/Bysmumate.git"
             },
 
             {
                 icon: <SiGithub size="40" />,
-                url: "https://github.com/YorgiAlejandro/ToDoTask-iOS.git"
+                url: "https://github.com/YorgiAlejandro/Bysmumate.git"
             },
         ]
     },
     {
         id: 2,
-        title: "Valencia Fusion",
+        title: "Mandao Co.",
         description:
-            "is a Big site web from TheNightLove.ltd created with Ts, NextJs and TailwindCss",
+            "is a big food delivery company and i made the iOS App",
         imageUrl: "/work_3.png",
         skills: [
             {
                 icon: <RxRocket size="40" />,
-                url: "http://valenciafusion.msomnium.tech/"
+                url: "https://mandao.app"
             },
 
             {
                 icon: <SiGithub size="40" />,
-                url: "https://github.com/delvaty/The-Night-Love-New.git"
+                url: "https://mandao.app"
             },
         ]
     },
@@ -132,7 +132,7 @@ export const cardContent = [
     },
     {
         id: 7,
-        title: "Bysumate",
+        title: "Ecommerce - Prototype",
         description:
             "is a ecommerce for sell all type of articles in any place around the world",
         imageUrl: "/work_8.webp",
